@@ -21,5 +21,4 @@ Flutter: An open-source UI software development toolkit created by Google. It is
 ![Attendance List](https://res.cloudinary.com/dglaj66ds/image/upload/v1733033680/Sidebar__Menu_lqsqym.jpg)
 
 
-![Map View]
-(https://res.cloudinary.com/dglaj66ds/image/upload/v1733033656/Map_rpdmbw.jpg)
+![Map View](https://res.cloudinary.com/dglaj66ds/image/upload/v1733033656/Map_rpdmbw.jpg)
